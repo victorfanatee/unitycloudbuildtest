@@ -20,7 +20,7 @@ MonoBehaviour:
   m_ShowMode: 4
   m_Title: 
   m_RootView: {fileID: 8}
-  m_MinSize: {x: 950, y: 300}
+  m_MinSize: {x: 950, y: 621}
   m_MaxSize: {x: 10000, y: 10000}
 --- !u!114 &2
 MonoBehaviour:
@@ -119,7 +119,7 @@ MonoBehaviour:
   m_MinSize: {x: 711, y: 571}
   m_MaxSize: {x: 18006, y: 18021}
   vertical: 0
-  controlID: 21
+  controlID: 67
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -193,7 +193,7 @@ MonoBehaviour:
     y: 0
     width: 1366
     height: 685
-  m_MinSize: {x: 950, y: 300}
+  m_MinSize: {x: 950, y: 621}
   m_MaxSize: {x: 10000, y: 10000}
 --- !u!114 &9
 MonoBehaviour:
@@ -259,7 +259,7 @@ MonoBehaviour:
   m_MinSize: {x: 434, y: 571}
   m_MaxSize: {x: 14004, y: 18021}
   vertical: 1
-  controlID: 22
+  controlID: 68
 --- !u!114 &12
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -283,7 +283,7 @@ MonoBehaviour:
   m_MinSize: {x: 434, y: 471}
   m_MaxSize: {x: 14004, y: 14021}
   vertical: 0
-  controlID: 23
+  controlID: 69
 --- !u!114 &13
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -1197,18 +1197,18 @@ MonoBehaviour:
     m_ExpandedIDs: ae240000d4240000f8240000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
-      m_Name: Build
-      m_OriginalName: Build
+      m_Name: 
+      m_OriginalName: 
       m_EditFieldRect:
         serializedVersion: 2
         x: 0
         y: 0
         width: 0
         height: 0
-      m_UserData: 1618
+      m_UserData: 0
       m_IsWaitingForDelay: 0
       m_IsRenaming: 0
-      m_OriginalEventType: 0
+      m_OriginalEventType: 11
       m_IsRenamingFilename: 1
       m_ClientGUIView: {fileID: 3}
     m_SearchString: 
